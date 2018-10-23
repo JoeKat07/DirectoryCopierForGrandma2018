@@ -1,0 +1,10 @@
+c:\users\joe kat\source\repos\DirectoryCopier\DirectoryCopier\bin\Release\netcoreapp2.1\DirectoryCopier.deps.json
+c:\users\joe kat\source\repos\DirectoryCopier\DirectoryCopier\bin\Release\netcoreapp2.1\DirectoryCopier.runtimeconfig.json
+c:\users\joe kat\source\repos\DirectoryCopier\DirectoryCopier\bin\Release\netcoreapp2.1\DirectoryCopier.runtimeconfig.dev.json
+c:\users\joe kat\source\repos\DirectoryCopier\DirectoryCopier\bin\Release\netcoreapp2.1\DirectoryCopier.dll
+c:\users\joe kat\source\repos\DirectoryCopier\DirectoryCopier\bin\Release\netcoreapp2.1\DirectoryCopier.pdb
+c:\users\joe kat\source\repos\DirectoryCopier\DirectoryCopier\obj\Release\netcoreapp2.1\DirectoryCopier.csproj.CoreCompileInputs.cache
+c:\users\joe kat\source\repos\DirectoryCopier\DirectoryCopier\obj\Release\netcoreapp2.1\DirectoryCopier.AssemblyInfoInputs.cache
+c:\users\joe kat\source\repos\DirectoryCopier\DirectoryCopier\obj\Release\netcoreapp2.1\DirectoryCopier.AssemblyInfo.cs
+c:\users\joe kat\source\repos\DirectoryCopier\DirectoryCopier\obj\Release\netcoreapp2.1\DirectoryCopier.dll
+c:\users\joe kat\source\repos\DirectoryCopier\DirectoryCopier\obj\Release\netcoreapp2.1\DirectoryCopier.pdb
